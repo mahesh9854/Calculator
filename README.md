@@ -1,6 +1,6 @@
 # Calculator
 
-# Calculator
+
 Done a complete Calculator app for android 
 
 # Features
